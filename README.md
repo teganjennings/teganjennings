@@ -27,21 +27,8 @@
 </p>
 </br>
 
-# Contact Me :
-
-<p>
-
-If you want to reach out to me about anything, just ping me!
-
-<a href="mailto:teganjennings1@hotmail.com">
- <img align="center" alt="Email me icon" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
-</a>
-<a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="center" alt="Linkedin icon" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
-</br
-
-</p>
-</br>
+<hr width="100%" size="2">
+<p>If you want to reach out to me about anything, just ping me!</p>
 
 <a href="mailto:teganjennings1@hotmail.com">
   <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
