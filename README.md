@@ -2,7 +2,7 @@
 
 ### - Im Tegan! A Full-Stack Software Development Engineer
 
-<img height="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<img height="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 
 ### - Learning :
 
