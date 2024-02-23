@@ -1,4 +1,4 @@
-# Welcome 👋 Im Tegan! A Full-Stack Software Development Engineer 👩‍💻
+# Welcome 👋 Im Tegan! 👩‍💻
 
 <img align="right" height="250" width="350" alt="welcome gif with party poppers" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif" />
 
@@ -44,6 +44,9 @@ If you want to reach out to me about anything, just ping me!
 </br>
 
 # My Github Stats 😎
+
+<a href="https://github.com/teganjennings/github-readme-stats">
+<img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" /></a>
 
 <p align="center" >  
   <a href="https://github.com/teganjennings/github-readme-stats">
