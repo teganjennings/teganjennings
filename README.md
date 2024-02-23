@@ -30,26 +30,31 @@
 # Contact Me :
 
 <p>
- </br>
 
 If you want to reach out to me about anything, just ping me!
 
 <a href="mailto:teganjennings1@hotmail.com">
- <img align="center" alt="Email" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/gmail.png" />
+ <img align="center" alt="Email me icon" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
 </a>
 <a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="center" alt="Linkedin" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/linkedin.png" />
+  <img align="center" alt="Linkedin icon" width="100" height="50" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
 </br
+
 </p>
 </br>
 
-# My Github Stats 😎
+<a href="mailto:teganjennings1@hotmail.com">
+  <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/teganjennings/">
+  <img align="left" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
+</a>
+
+<a href="https://join.skype.com/invite/EZPsibmc1UPf">
+  <img align="rigleftht" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/skype.png" />
+</a>
 
 <a href="https://github.com/teganjennings/github-readme-stats">
-<img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" /></a>
-
-<p align="center" >  
-  <a href="https://github.com/teganjennings/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula"/>
-  </a>
-</p>
+  <img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" />
+</a>
