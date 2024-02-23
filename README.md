@@ -1,8 +1,6 @@
-# Welcome 👋
+# Welcome 👋 Im Tegan! A Full-Stack Software Development Engineer 👩‍💻
 
-### - Im Tegan! A Full-Stack Software Development Engineer
-
-<img height="250" width="350" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<img align="right" height="250" width="350" alt="welcome gif with party poppers" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif" />
 
 ### - Learning :
 
@@ -15,17 +13,17 @@
 - ✨ Language Learning
 - ✨ Gym
 
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" align="center" />
+<img align="center" height="50" alt="kyubey running gif" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" />
 
 # Languages & Tools 👨‍💻 🛠:
 
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50">
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50">
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50">
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50" />
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50" />
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50" />
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50" />
 </p>
 </br>
 
