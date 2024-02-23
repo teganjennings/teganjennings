@@ -1,15 +1,14 @@
 # Welcome 👋
 
-# About ME 💬 :
+### - Im Tegan! A Full-Stack Software Development Engineer
 
-### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast from India.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 
 ### - Learning :
 
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ React.js
+- ✨ Figma Design
+- ✨ Python
 
 ### - Hobbies :
 
@@ -17,18 +16,6 @@
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)
-
-### - Hello! I'm Tegan! Currently a Full-Stack Software Development Engineer
-
-### - Learning :
-
-- ✨ React.js
-- ✨ Figma Design
-- ✨ Python
-</div>
-<div align="center">
-  <img width="50%"  alt="Welcome gif with" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
-</div>
 
 <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" />
 
