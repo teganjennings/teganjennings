@@ -1,11 +1,8 @@
-# Konichiwa 👋
+# Welcome 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 </div>
-
-</br>
-</br>
 </br>
 
 # About ME 💬 :
