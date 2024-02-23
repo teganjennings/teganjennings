@@ -11,13 +11,14 @@
 
 ### - Currently a Full-Stack Software Development Engineer
 
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="40" />
+
 ### - Learning :
 
 - ✨ React.js
 - ✨ Figma Design
 - ✨ Python
 
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="40" />
 </br>
 
 # Languages & Tools 👨‍💻 🛠:
