@@ -16,6 +16,18 @@
 
 <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" />
 
+</br></br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # Languages & Tools 👨‍💻 🛠:
 
 <p align="center">
