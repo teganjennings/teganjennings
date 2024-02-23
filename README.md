@@ -1,11 +1,6 @@
 # Welcome 👋
 
-<div align="center">
-  <img width="50%"  alt="Welcome gif with" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
-</div>
-</br>
-
-# About Me 💬 :
+<div width="50%" align="left">
 
 ### - Hello! I'm Tegan! Currently a Full-Stack Software Development Engineer
 
@@ -14,10 +9,12 @@
 - ✨ React.js
 - ✨ Figma Design
 - ✨ Python
+</div>
+<div align="center">
+  <img width="50%"  alt="Welcome gif with" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+</div>
 
 <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" />
-
-</br>
 
 # Languages & Tools 👨‍💻 🛠:
 
