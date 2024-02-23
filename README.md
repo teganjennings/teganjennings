@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<img max-width='50%'  alt="GIF" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 </div>
 </br>
 
@@ -9,7 +9,7 @@
 
 ### - Hello, I'm Tegan, a Software Development Engineer currently learning React.js
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/1936.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/1936.gif">
 
 ### - Learning :
 
@@ -29,13 +29,13 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50">
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50">
 </br>
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
 </br>
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50">
 </p>
 </br>
 </br>
@@ -49,10 +49,10 @@
 If you want to reach out to me about anything, just ping me!
 
 <a href="mailto:teganjennings1@hotmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/linkedin.png" />
 </br
 
 </br>
