@@ -1,6 +1,22 @@
 # Welcome 👋
 
-<div width="50%" align="left">
+# About ME 💬 :
+
+### - I'm 19 years old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+
+### - Learning :
+
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies :
+
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
 
 ### - Hello! I'm Tegan! Currently a Full-Stack Software Development Engineer
 
