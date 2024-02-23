@@ -2,7 +2,7 @@
 
 ### - Im Tegan! A Full-Stack Software Development Engineer
 
-<img height="300" width="400" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<img height="250" width="350" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 
 ### - Learning :
 
@@ -12,24 +12,10 @@
 
 ### - Hobbies :
 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Language Learning
+- ✨ Gym
 
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" />
-
-</br></br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="50" align="center" />
 
 # Languages & Tools 👨‍💻 🛠:
 
