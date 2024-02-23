@@ -1,7 +1,7 @@
 # Welcome 👋
 
-<div style="align: center;">
-<img style="max-width: 50%; align: center;"  alt="Welcome gif with party poppers" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+<div align="center">
+<img width="50%"  alt="Welcome gif with" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 </div>
 </br>
 
