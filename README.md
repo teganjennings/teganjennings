@@ -14,24 +14,28 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python icon" />
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java icon" />
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" />
+  <img alt="android-studios icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/android_studio.png" />
+  <img alt="bootstrap icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/bootstrap.png" />
+  <img alt="CSS icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/css3.png" />
+  <img alt="HTML icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/html.png" />
+  <img alt="Java icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/java.png" />
+  <img alt="jetbrains_intellij icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/etbrains_intellij.png" />
+  <img alt="leetcode icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/leetcode.png" />
+  <img alt="npm icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/npm.png" />
+  <img alt="php icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/php.png" />
+  <img alt="react icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/react.png" />
+  <img alt="visualstudio icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/visualstudio.png" />
 </p>
 
 <hr width="100%" size="2">
 <p align="center">If you want to reach out to me about anything, just ping me!</p>
 
 <a href="mailto:teganjennings1@hotmail.com">
-  <img align="center" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
+  <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="center" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
-</a>
-
-<a href="https://join.skype.com/invite/EZPsibmc1UPf">
-  <img align="center" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/skype.png" />
+  <img align="right" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
 </a>
 
 <!-- <a href="https://github.com/teganjennings/github-readme-stats">
