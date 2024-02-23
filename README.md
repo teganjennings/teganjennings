@@ -19,7 +19,7 @@
   <img alt="CSS icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/css3.png" />
   <img alt="HTML icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/html.png" />
   <img alt="Java icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/java.png" />
-  <img alt="jetbrains_intellij icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/etbrains_intellij.png" />
+  <img alt="jetbrains_intellij icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/jetbrains_intellij.png" />
   <img alt="leetcode icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/leetcode.png" />
   <img alt="npm icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/npm.png" />
   <img alt="php icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/languages/php.png" />
