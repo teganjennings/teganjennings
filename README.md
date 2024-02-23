@@ -1,41 +1,37 @@
 # Welcome 👋
 
 <div align="center">
-<img width="50%"  alt="Welcome gif with" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
+  <img width="50%"  alt="Welcome gif with" align="center" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/welcome.gif">
 </div>
 </br>
 
-# About ME 💬 :
+# About Me 💬 :
 
-### - Hello, I'm Tegan, a Software Development Engineer currently learning React.js
+### - Hello! I'm Tegan!
 
-<img height="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/1936.gif">
+### - Currently a Full-Stack Software Development Engineer
 
 ### - Learning :
 
 - ✨ React.js
 - ✨ Figma Design
-
-</br>
-</br>
-</br>
+- ✨ Python
 
 <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="40" />
+</br>
 
 # Languages & Tools 👨‍💻 🛠:
 
-</br>
-
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50">
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50">
-</br>
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
-</br>
-<img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50">
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50">
+  </br>
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
+  </br>
+  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50">
 </p>
 </br>
 </br>
