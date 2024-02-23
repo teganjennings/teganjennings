@@ -31,10 +31,10 @@
 <p align="center">
   <p>If you want to reach out to me about anything, just ping me!</p>
   <a href="mailto:teganjennings1@hotmail.com">
-    <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
+    <img alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
   </a>
   <a href="https://www.linkedin.com/in/teganjennings/">
-    <img align="right" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
+    <img alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
   </a>
 </p>
 
