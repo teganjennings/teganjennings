@@ -28,15 +28,15 @@
 </p>
 
 <hr width="100%" size="2">
-<p align="center">If you want to reach out to me about anything, just ping me!</p>
-
-<a href="mailto:teganjennings1@hotmail.com">
-  <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="right" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
-</a>
+<div align="center">
+  <p>If you want to reach out to me about anything, just ping me!</p>
+  <a href="mailto:teganjennings1@hotmail.com">
+    <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/teganjennings/">
+    <img align="right" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
+  </a>
+</div>
 
 <!-- <a href="https://github.com/teganjennings/github-readme-stats">
   <img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" />
