@@ -18,28 +18,22 @@
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java icon" />
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" />
 </p>
-</br>
 
 <hr width="100%" size="2">
-<p>If you want to reach out to me about anything, just ping me!</p>
-<div>
-<div align="right" width="50%">
-<a href="https://github.com/teganjennings/github-readme-stats">
-  <img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" />
-</a>
-</div>
-<div align="left" width="50%">
+<p align="center">If you want to reach out to me about anything, just ping me!</p>
 
 <a href="mailto:teganjennings1@hotmail.com">
-  <img align="left" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
+  <img align="center" alt="email me icon" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/email_me.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="left" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
+  <img align="center" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/linkedin.png" />
 </a>
 
 <a href="https://join.skype.com/invite/EZPsibmc1UPf">
-  <img align="rigleftht" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/skype.png" />
+  <img align="center" alt="github stats" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/contact/skype.png" />
 </a>
-</div>
-</div>
+
+<!-- <a href="https://github.com/teganjennings/github-readme-stats">
+  <img align="right" height="250" width="350" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=teganjennings&&show_icons=true&theme=dracula" />
+</a> -->
