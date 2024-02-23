@@ -7,9 +7,7 @@
 
 # About Me 💬 :
 
-### - Hello! I'm Tegan!
-
-### - Currently a Full-Stack Software Development Engineer
+### - Hello! I'm Tegan! Currently a Full-Stack Software Development Engineer
 
 <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/kyubey.gif" height="40" />
 
@@ -29,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/python.png" alt="python" width="120" height="50">
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/java.png" alt="java"  width="100" height="50">
   </br>
-  <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
   </br>
   <img src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/pc.png" alt="pc" width="100" height="50">
@@ -46,15 +43,12 @@
 If you want to reach out to me about anything, just ping me!
 
 <a href="mailto:teganjennings1@hotmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/gmail.png" />
+ <img align="center" alt="email" width="130" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/teganjennings/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/linkedin.png" />
+  <img align="center" alt="Linkedin" width="150" height="100" src="https://raw.githubusercontent.com/teganjennings/teganjennings/main/assets/icons/linkedin.png" />
 </br
-
-</br>
-</br>
-</
+</p>
 </br>
 
 <p align="center" >  
