@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/teganjennings/teganjennings/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent/teganjennings/teganjennings/blob/master/assets/208593.gif">
 </div>
 
 </br>
@@ -12,7 +12,7 @@
 
 ### - Hello, I'm Tegan, a Software Development Engineer currently learning React.js
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/teganjennings/teganjennings/main/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent/teganjennings/teganjennings/main/assets/1936.gif">
 
 ### - Learning :
 
